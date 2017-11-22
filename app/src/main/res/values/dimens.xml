@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="larguraLogo">220dp</dimen>
+    <dimen name="altura">200dp</dimen>
+    <dimen name="textoBotao">20sp</dimen>
+    <dimen name="larguraBotao">150dp</dimen>
+</resources>
